@@ -4,9 +4,9 @@ print("Code by The CatTek Team and DuonngwTek, DONOT COPY!")
 print("Starting now...")
 cmd = 'sudo apt-get update'
 os.system(cmd)
-cmd = 'wget -O cr.deb "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb"'
+cmd = 'wget -O fesr.deb "http://ftp.tw.debian.org/debian/pool/main/f/firefox-esr/firefox-esr_115.12.0esr-1_i386.deb"'
 os.system(cmd)
-cmd = 'sudo apt-get install ./cr.deb'
+cmd = 'sudo apt-get install ./fesr.deb'
 os.system(cmd)
 cmd = 'wget -O rm.deb "https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb"'
 os.system(cmd)
