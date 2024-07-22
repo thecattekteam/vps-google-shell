@@ -1,6 +1,6 @@
 import os
 
-print("Code by The CatTek Team and DuonngwTek, DONOT COPY!")
+print("DONOT COPY!")
 print("Starting now...")
 cmd = 'sudo apt-get update'
 os.system(cmd)
@@ -25,5 +25,4 @@ os.system(cmd)
 cmd = 'sudo apt install neofetch -y'
 os.system(cmd)
 print("Complete! Please go to remotedesktop.google.com/headless to continue")
-print("Code by The CatTek Team and DuonngwTek, DONOT COPY!")
 
